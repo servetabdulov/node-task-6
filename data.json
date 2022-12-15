@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Product1",
+        "cost": 23,
+        "quantity": 5,
+        "id": 1
+    },
+    {
+        "name": "Product2",
+        "cost": 43,
+        "quantity": 4,
+        "id": 2
+    },
+    {
+        "name": "Product3",
+        "cost": 49,
+        "quantity": 8,
+        "id": 3
+    },
+    {
+        "name": "Product4",
+        "cost": 23,
+        "quantity": 10,
+        "id": 4
+    },
+    {
+        "name": "Product5",
+        "cost": 67,
+        "quantity": 22,
+        "id": 5
+    },
+    {
+        "name": "Product6",
+        "cost": 35,
+        "quantity": 21,
+        "id": 6
+    },
+    {
+        "name": "Product7",
+        "cost": 45,
+        "quantity": 12,
+        "id": 7
+    },
+    {
+        "name": "Product8",
+        "cost": 93,
+        "quantity": 11,
+        "id": 8
+    },
+    {
+        "name": "Product9",
+        "cost": 73,
+        "quantity": 3,
+        "id": 9
+    },
+    {
+        "name": "Product10",
+        "cost": 82,
+        "quantity": 5,
+        "id": 10
+    }
+]
